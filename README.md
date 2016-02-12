@@ -1,6 +1,8 @@
 PROSPECTUS
 
-Topic: Nikola Tesla was the greatest influence to modern electrical systems
+Topic: Nikola Tesla - Serbian-American Inventor/Mad Scientist
+
+Thesis: Nikola Tesla was the greatest influence to modern electrical systems
 
 Sub-Topics: 
 
