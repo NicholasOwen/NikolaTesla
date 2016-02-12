@@ -11,3 +11,9 @@ Alternating Current and Induction Motor
 Niagara Falls
 
 Radio
+
+
+Sources:
+http://www.pbs.org/tesla/ll/ll_warcur.html (AC/DC battle with Edison)
+http://www.pbs.org/tesla/ll/ll_niagara.html (Niagara Falls, hydro power, use of AC)
+http://www.pbs.org/tesla/ll/ll_whoradio.html (Radio, Marconi)
