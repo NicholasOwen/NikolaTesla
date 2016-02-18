@@ -23,6 +23,7 @@ That, along with the invention of the Radio, which enabled reliable transportati
 
 
 Sources:
+
 (1) http://www.pbs.org/tesla/ll/ll_warcur.html (AC/DC battle with Edison)
 
 (2) http://www.pbs.org/tesla/ll/ll_niagara.html (Niagara Falls, hydro power, use of AC)
