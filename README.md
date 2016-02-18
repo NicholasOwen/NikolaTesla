@@ -13,8 +13,8 @@ Sub-Topics:
 (iii) Radio
 
 
+Thesis:
 
-Thesis
 Nikola Tesla has had a more profound effect on society than what he's given credit for. 
 He strongly encouraged the use of AC electricity in the power grid, and with his invention of the AC electric motor, it became feasible to efficiently generate AC electricity with Hydroelectric and Steam powered sources of energy. 
 
@@ -24,10 +24,17 @@ That, along with the invention of the Radio, which enabled reliable transportati
 
 Sources:
 (1) http://www.pbs.org/tesla/ll/ll_warcur.html (AC/DC battle with Edison)
+
 (2) http://www.pbs.org/tesla/ll/ll_niagara.html (Niagara Falls, hydro power, use of AC)
+
 (3) http://www.pbs.org/tesla/ll/ll_whoradio.html (Radio, Marconi)
+
 (4) https://www.youtube.com/watch?v=pPnGvjmIgZA (General information about Nikola Tesla)
+
 (5) https://teslauniverse.com/nikola-tesla/timeline/ (A timeline of Tesla's life, and legacy)
+
+
+Why this topic: Because I like Elon Musk's company Tesla Motors - which designs and manufactures electric cars. So I decided to do my essay on Nikola Tesla, the person Tesla Motors is named after. 
 
 
 
