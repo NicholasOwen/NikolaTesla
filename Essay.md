@@ -11,13 +11,20 @@ The power generators at Niagara Falls were the first prototype of a large scale 
 After selling his patents to George Westinghouse in 1888, Tesla's ideas and inventions have lived on, and enrich every life on the planet.
 
 ###Alternating Current Motor
-Tesla's AC motor was a critical component in the creation of an AC power grid. In the early 1890s, Thomas Edison and Nikola Tesla were feuding over what type of current to use, Edison's DC or Tesla's AC. Edison's DC power was already in use in some parts of New York City, lighting homes and businesses. However it did come with the notable drawback of the need to have power stations every 2 miles (3.22 kilometres). The power stations were required because the DC electricity could only be transmitted at a low voltage, resulting in great power loss in the transmission lines as it travelled farther from the power station. There was a better way to transmit power, however, and that was with AC. The voltage could be 'stepped up' with the use of a transformer, and reduce energy losses over the transmission lines. With significantly reduced physical restraints on an AC system, electricity can spread farther than it ever could have with a DC electrical grid. This means that electricity now has the means to travel to smaller cities, rural, and remote areas, cost efficiently. Tesla's AC motor was a critical component in bringing the more efficient AC power grid to life, because it was the most effective method capable of generating the AC electricity required for a full scale power grid across the United States and the world. Tesla was able to test his theory of an AC power grid, and his infamous AC motor for the first time on a large scale at Niagara Falls.
+####Tesla's ideas are revolutionary
+Tesla's AC motor was the most critical component in the creation of an AC power grid. In the early 1890s, Thomas Edison and Nikola Tesla were feuding over what type of current to use, Edison's DC or Tesla's AC. Edison's DC power was already in use in some parts of New York City, lighting homes and businesses. However it did come with the notable drawback of the need to have power stations every 2 miles (3.22 kilometres). The power stations were required because the DC electricity could only be transmitted at a low voltage, resulting in great power loss in the transmission lines as it travelled farther from the power station. There was a better way to transmit power, however, and that was with AC. The voltage could be 'stepped up' with the use of a transformer, and reduce energy losses over the transmission lines. With significantly reduced physical restraints on an AC system, electricity can spread farther than it ever could have with a DC electrical grid. This means that electricity now has the means to travel to smaller cities, rural, and remote areas, cost efficiently. Tesla's AC motor was a critical component in bringing the more efficient AC power grid to life, because it was the most effective method capable of generating the AC electricity required for a full scale power grid across the United States and the world. Tesla was able to test his theory of an AC power grid, and his infamous AC motor for the first time on a large scale at Niagara Falls.
 
-###Niagara Falls
+**need to develop more around edison v tesla**
+###World's Colombian Exebition and Niagara Falls
+####Tesla's proven right
+In 1893 the Westinghouse company, along with Tesla were commissioned to light the World's Colombian Exebebition in Chicago. This was the first step for Tesla in showing the world that AC was the best way to transmit and consume energy.
+
+
 In late 1893, the Westinghouse Company, along with Tesla, was awarded the contract to build their new power generating system at Niagara Falls. Within three years, on November 16, 1896, the generators were generating AC electricity for use in Buffalo, NY [6]. 
 
 
-
+###His Patents take a life of their own
+####Tesla's legacy
 
 
 
